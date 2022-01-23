@@ -9,3 +9,8 @@ nav ul li
     list-style: none;
     color: green;
 }
+
+p{
+    color: red;
+    font-size: 10px;
+}
